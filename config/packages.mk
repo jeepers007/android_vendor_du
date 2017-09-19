@@ -8,7 +8,6 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     OmniStyle \
     OmniSwitch \
-    MatLog \
     ThemeInterfacer \
     Turbo
 
