@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <string name="android_upgrading_title">Mise à jour de Dirty Unicorns en cours</string>
-    <string name="android_start_title">Démarrage de Dirty Unicorns en cours</string>
-    <string name="android_upgrading_notification_title">Mise à jour de Dirty Unicorns en cours</string>
-
-</resources>
-

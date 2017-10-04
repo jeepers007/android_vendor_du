@@ -18,13 +18,15 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Array of titles for sim color for multi-sim -->
-    <string-array name="color_picker">
-        <item>Pixel</item>
-        <item>Blue</item>
-        <item>Indigo</item>
-        <item>Purple</item>
-        <item>Pink</item>
-        <item>Red</item>
-    </string-array>
+
+    <!-- Battery saver mode: allowable trigger threshold levels. -->
+    <integer-array name="battery_saver_trigger_values" translatable="false" >
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </integer-array>
+
 </resources>
