@@ -1,1 +1,2 @@
 add_lunch_combo du_oneplus3-userdebug
+add_lunch_combo du_oneplus2-userdebug
